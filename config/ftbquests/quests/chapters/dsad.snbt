@@ -1,0 +1,232 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dsad"
+	group: ""
+	id: "3A9211EB7832F7A3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Начало начал "
+				"{image: width:100 height:100 align:center}"
+			]
+			id: "209DD969D0A34206"
+			rewards: [{
+				id: "3EE332950902FB0B"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FBC4FB3999A3218"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "2D2570076F93974B"
+			rewards: [
+				{
+					id: "10C004D16FE42707"
+					item: {
+						Count: 1
+						id: "minecraft:stone_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1A4BA0222561AA93"
+					item: {
+						Count: 1
+						id: "minecraft:stone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6D92E80373923F48"
+					item: {
+						Count: 1
+						id: "minecraft:stone_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "7EBF1509F7F7198C"
+				item: { Count: 32, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			id: "4CB1D632D4950100"
+			rewards: [{
+				count: 5
+				id: "38AAEA2F4375B296"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 10L
+					id: "5E4E34A6C285323D"
+					item: { Count: 10, id: "minecraft:iron_ore" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "40058849B376CA5E"
+					item: { Count: 5, id: "minecraft:coal" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			id: "784E4C9C28907DD7"
+			rewards: [{
+				count: 2
+				id: "50C1442877D83E87"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EBC2BF099A38584"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			id: "341193062965FDE2"
+			rewards: [
+				{
+					id: "78B4F55B14ADB131"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35B800A15685AFD6"
+					item: {
+						Count: 1
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "08B2D3095D617D76"
+					item: {
+						Count: 1
+						id: "minecraft:iron_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "33F5A55FEA2BE7D8"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F4717DC69A8357F"
+					item: {
+						Count: 1
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 1.5d
+		}
+		{
+			id: "6AB9C2C0A4B5D04E"
+			rewards: [{
+				count: 3
+				id: "065D2034968D1273"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "325F042B8880B53F"
+				item: { Count: 5, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			id: "5825070A51032698"
+			rewards: [{
+				count: 4
+				id: "0AD6B545F0F1E607"
+				item: "minecraft:bookshelf"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60D73B083DB75864"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			id: "4DB6B3C5BED4D6CE"
+			rewards: [{
+				count: 4
+				id: "0B7D3C6474041598"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			tasks: [{
+				count: 6L
+				id: "3941D31EBB660638"
+				item: { Count: 6, id: "minecraft:leather" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+	]
+	title: "dsad"
+}

@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "412BAF2ED2A2F02B"
+	group: ""
+	id: "412BAF2ED2A2F02B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "0266A9C6ECABCF12"
+		tasks: [{
+			dimension: "minecraft:overworld"
+			id: "0C80FE2B784254C0"
+			type: "dimension"
+		}]
+		x: -9.0d
+		y: -5.5d
+	}]
+	title: "ад"
+}

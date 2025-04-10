@@ -1,0 +1,9 @@
+*
+!*/
+
+
+!.gitignore
+!mods/**
+!kubejs/**
+!config/**
+!scripts/**
