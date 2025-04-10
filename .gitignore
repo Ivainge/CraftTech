@@ -7,3 +7,5 @@
 !kubejs/**
 !config/**
 !scripts/**
+
+config/jei/world/**
