@@ -15,4 +15,8 @@ crash-reports
 config/oculus.properties
 config/ironchests/defaults.properties
 config/jei/world/local/New_World__1/bookmarks.ini
-config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json
+config/powah.json5
+config/ae2/client.json
+config/inventoryprofilesnext/**
+!config/inventoryprofilesnext/inventoryprofiles.json
+config/inventoryprofilesnext/New World/villager-trading-config.json
