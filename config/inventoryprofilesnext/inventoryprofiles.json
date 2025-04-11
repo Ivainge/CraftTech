@@ -7,7 +7,6 @@
         "first_run": false
     },
     "GuiSettings": {
-        
         "enable_profiles_ui": {
             "value": false
         },
@@ -31,6 +30,28 @@
         },
         "audio_replace_failed_notification": {
             "value": false
+        }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
         }
     }
 }
