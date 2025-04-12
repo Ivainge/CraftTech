@@ -22,3 +22,4 @@ config/inventoryprofilesnext/**
 config/inventoryprofilesnext/New World/villager-trading-config.json
 config/Mekanism/client.toml
 config/voicechat/voicechat-client.properties
+config/Mekanism/client.toml
