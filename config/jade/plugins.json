@@ -94,6 +94,9 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "mysticalagriculture": {
     "infused_farmland": true,
     "crop": true,
