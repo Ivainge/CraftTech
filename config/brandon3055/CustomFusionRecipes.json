@@ -1,0 +1,950 @@
+[
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick",
+        "energy": 16000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_shovel",
+            "draconicevolution:draconic_sword"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:wyvern_sword",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:wyvern_pick",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:wyvern_axe",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_helm",
+        "catalyst": "draconicevolution:draconic_helm",
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:infused_obsidian",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:infused_obsidian",
+            "draconicadditions:chaotic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_chest",
+        "catalyst": "draconicevolution:draconic_chest",
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:infused_obsidian",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:infused_obsidian",
+            "draconicadditions:chaotic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_legs",
+        "catalyst": "draconicevolution:draconic_legs",
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:infused_obsidian",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:infused_obsidian",
+            "draconicadditions:chaotic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_boots",
+        "catalyst": "draconicevolution:draconic_boots",
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:infused_obsidian",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:infused_obsidian",
+            "draconicadditions:chaotic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_bow",
+        "catalyst": "draconicevolution:draconic_bow",
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_staff_of_power",
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:awakened_core",
+        "catalyst": "minecraft:nether_star",
+        "tier": 1
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:chaotic_core",
+        "catalyst": "draconicevolution:chaos_shard",
+        "tier": 2,
+        "energy": 100000000
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:crafting_injector,1,1",
+        "catalyst": "draconicevolution:crafting_injector,1,0",
+        "tier": 0,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "minecraft:diamond",
+            "draconicevolution:draconic_core",
+            "minecraft:diamond",
+            "draconicevolution:draconic_core",
+            "minecraft:diamond",
+            "draconicevolution:draconium_block",
+            "minecraft:diamond"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:crafting_injector,1,2",
+        "catalyst": "draconicevolution:crafting_injector,1,1",
+        "tier": 1,
+        "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconic_block",
+            "draconicevolution:wyvern_core",
+            "minecraft:diamond",
+            "minecraft:diamond"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:crafting_injector,1,3",
+        "catalyst": "draconicevolution:crafting_injector,1,2",
+        "tier": 2,
+        "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "draconicevolution:chaotic_core",
+            "minecraft:dragon_egg",
+            "minecraft:diamond",
+            "minecraft:diamond"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicadditions:chaotic_energy_core",
+        "catalyst": "draconicevolution:draconic_energy_core",
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "minecraft:redstone_block",
+            "minecraft:redstone_block",
+            "minecraft:redstone_block",
+            "minecraft:redstone_block"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick",
+        "energy": 111111111111,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_shovel",
+            "draconicevolution:draconic_sword",
+            "draconicevolution:draconic_axe",
+            "draconicevolution:draconium_capacitor,1,1",
+            "draconicevolution:draconium_capacitor,1,1",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_sword",
+        "catalyst": "ic2:nano_saber",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_pick",
+        "catalyst": "gravisuite:advanceddrill",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_shovel",
+        "catalyst": "ic2:drill",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_axe",
+        "catalyst": "ic2:chainsaw",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_bow",
+        "catalyst": "minecraft:bow",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "ic2:quantum_helmet",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "ic2:nano_chestplate",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "ic2:quantum_leggings",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "ic2:quantum_boots",
+        "energy": 6000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_core",
+        "catalyst": "minecraft:nether_star",
+        "energy": 4000000,
+        "tier": 0,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconic_core",
+            "draconicevolution:draconic_core",
+            "minecraft:nether_star",
+            "minecraft:nether_star",
+            "draconicevolution:draconic_core",
+            "draconicevolution:draconic_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:awakened_core",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 30000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:chaotic_core",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 100000000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_energy_core",
+        "catalyst": "draconicevolution:draconic_core",
+        "energy": 8000000,
+        "tier": 0,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "minecraft:redstone_block",
+            "minecraft:redstone_block",
+            "minecraft:redstone_block",
+            "minecraft:redstone_block",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_energy_core",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 800000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_energy_core",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 75000000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconium_capacitor,1,0",
+        "catalyst": "thermalexpansion:capacitor,1,4",
+        "energy": 16000000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconium_capacitor,1,1",
+        "catalyst": "draconicevolution:draconium_capacitor,1,0",
+        "energy": 160000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "gravisuite:crafting,1,3",
+            "gravisuite:crafting,1,3",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:wyvern_sword",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:wyvern_pick",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:wyvern_axe",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_hoe",
+        "catalyst": "minecraft:diamond_hoe",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow",
+        "energy": 60000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:crafting_injector,1,1",
+        "catalyst": "draconicevolution:crafting_injector,1,0",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "minecraft:diamond",
+            "minecraft:diamond"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:crafting_injector,1,2",
+        "catalyst": "draconicevolution:crafting_injector,1,1",
+        "energy": 20000000,
+        "tier": 1,
+        "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "minecraft:diamond",
+            "minecraft:diamond"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:crafting_injector,1,3",
+        "catalyst": "draconicevolution:crafting_injector,1,2",
+        "energy": 80000000000,
+        "tier": 2,
+        "ingredients": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaos_shard,1,1",
+            "draconicevolution:chaos_shard,1,1",
+            "minecraft:diamond",
+            "minecraft:diamond"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:energy_storage_core",
+        "catalyst": "enderio:block_cap_bank,1,3",
+        "energy": 2500000,
+        "tier": 0,
+        "ingredients": [
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_helm",
+        "catalyst": "draconicevolution:draconic_helm",
+        "tier": 3,
+        "energy": 2000000000000,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "avaritia:resource,1,5",
+            "avaritia:resource,1,5"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_boots",
+        "catalyst": "draconicevolution:draconic_boots",
+        "tier": 3,
+        "energy": 2000000000000,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "avaritia:resource,1,5",
+            "avaritia:resource,1,5"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_legs",
+        "catalyst": "draconicevolution:draconic_legs",
+        "tier": 3,
+        "energy": 2000000000000,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "avaritia:resource,1,5",
+            "avaritia:resource,1,5"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_chest",
+        "catalyst": "draconicevolution:draconic_chest",
+        "tier": 3,
+        "energy": 2000000000000,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "avaritia:resource,1,5",
+            "avaritia:resource,1,5"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_bow",
+        "catalyst": "draconicevolution:draconic_bow",
+        "tier": 3,
+        "energy": 4000000000000,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "avaritia:resource,1,6",
+            "avaritia:resource,1,6"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicadditions:chaotic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_staff_of_power",
+        "tier": 3,
+        "energy": 15000000000000,
+        "ingredients": [
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaos_shard,1,0",
+            "draconicevolution:chaotic_core",
+            "draconicevolution:chaotic_core",
+            "draconicadditions:chaotic_energy_core",
+            "draconicadditions:chaotic_energy_core",
+            "avaritia:resource,1,6",
+            "avaritia:resource,1,6",
+            "avaritia:resource,1,6",
+            "avaritia:resource,1,6"
+        ]
+    }
+]
